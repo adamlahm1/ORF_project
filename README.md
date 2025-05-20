@@ -76,7 +76,7 @@ The 2nd part retains as *Valid hits*, only the hits with an `E-value` inferior t
 
 We can clearly see that the majority of the ORFs are short (< 1000 bp) and that Long ORFs, eventhough rare, but biologically relevant.
 
-### 📊 Valid vs Invalid ORFs
+### Valid vs Invalid ORFs
 
 ![orf_lengths_valid_vs_invalid](orf_lengths_valid_vs_invalid.png)
 
@@ -93,7 +93,7 @@ which means that 76% of extracted ORFs did not match known protein-coding region
 
 ---
 
-## 🧠 Discussion
+## Discussion
 
 Through thi project, we go through a full bioinformatics pipeline from the raw `Homo_sapiens_cdna_assembled.fasta` fasta file to a validated gene prediction using standard tools and reproducible environments.
 
